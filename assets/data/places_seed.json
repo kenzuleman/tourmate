@@ -1,0 +1,818 @@
+{
+  "schemaVersion": 1,
+  "destinations": [
+    {
+      "name": "Islamabad",
+      "province": "Islamabad Capital Territory",
+      "type": "city",
+      "tags": [
+        "Cultural",
+        "Cities",
+        "Heritage"
+      ],
+      "imageUrl": "https://i.postimg.cc/Bv3qBGR3/islamabad.jpg",
+      "description": "The modern capital of Pakistan, set against the scenic Margalla Hills, known for wide tree-lined avenues and iconic architecture.",
+      "places": [
+        {
+          "name": "Faisal Mosque",
+          "category": "attraction",
+          "tags": [
+            "Cultural",
+            "Architecture"
+          ],
+          "description": "One of the largest mosques in the world, with a striking contemporary design resembling a desert Bedouin tent.",
+          "funFact": "Designed by Turkish architect Vedat Dalokay; can hold tens of thousands of worshippers.",
+          "coordinates": {
+            "lat": 33.7296,
+            "lng": 73.038
+          }
+        },
+        {
+          "name": "Daman-e-Koh",
+          "category": "attraction",
+          "tags": [
+            "Viewpoint",
+            "Nature"
+          ],
+          "description": "A hillside garden offering a panoramic view of Islamabad from the Margalla Hills.",
+          "funFact": "The name means skirt of the mountain in Urdu and Persian.",
+          "coordinates": {
+            "lat": 33.7438,
+            "lng": 73.0621
+          }
+        },
+        {
+          "name": "Pakistan Monument",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Museum"
+          ],
+          "description": "A national monument and heritage museum representing Pakistan's provinces and territories through petal-shaped structures.",
+          "funFact": "Shaped like a blooming flower with petals representing the federating units.",
+          "coordinates": {
+            "lat": 33.6938,
+            "lng": 73.0689
+          }
+        },
+        {
+          "name": "Margalla Hills",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Hiking"
+          ],
+          "description": "A scenic mountain range surrounding Islamabad offering numerous hiking trails and nature walks.",
+          "funFact": "Part of the Himalayan foothills with extensive trail networks.",
+          "coordinates": {
+            "lat": 33.75,
+            "lng": 73.1
+          }
+        },
+        {
+          "name": "Lok Virsa Museum",
+          "category": "attraction",
+          "tags": [
+            "Museum",
+            "Cultural"
+          ],
+          "description": "A museum dedicated to preserving the cultural heritage and folk traditions of Pakistan.",
+          "funFact": "Showcases traditional crafts, textiles, and artifacts from across the country.",
+          "coordinates": {
+            "lat": 33.69,
+            "lng": 73.15
+          }
+        },
+        {
+          "name": "Rawal Lake",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Lake",
+            "Family"
+          ],
+          "description": "An artificial lake surrounded by green hills, popular for picnics, boating, and evening walks.",
+          "funFact": "Part of Margalla Hills National Park's southern edge.",
+          "coordinates": {
+            "lat": 33.71,
+            "lng": 73.23
+          }
+        },
+        {
+          "name": "Saidpur Village",
+          "category": "attraction",
+          "tags": [
+            "Cultural",
+            "Historical",
+            "Village"
+          ],
+          "description": "A historic village within Islamabad known for traditional architecture, cafés, and artisan shops.",
+          "funFact": "Revitalized heritage village at the foot of the Margallas.",
+          "coordinates": {
+            "lat": 33.77,
+            "lng": 73.19
+          }
+        }
+      ]
+    },
+    {
+      "name": "Lahore",
+      "province": "Punjab",
+      "type": "city",
+      "tags": [
+        "Historical",
+        "Heritage",
+        "Cities",
+        "Cultural"
+      ],
+      "imageUrl": "https://i.postimg.cc/QNkvc3Sh/lahore.jpg",
+      "description": "The cultural heart of Pakistan, home to Mughal-era monuments, vibrant bazaars, and rich food heritage.",
+      "places": [
+        {
+          "name": "Badshahi Mosque",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Architecture",
+            "Heritage"
+          ],
+          "description": "One of the world's largest mosques, built in the Mughal era, with a stunning red sandstone façade.",
+          "funFact": "Among the most iconic landmarks of the Mughal period in Lahore.",
+          "coordinates": {
+            "lat": 31.5882,
+            "lng": 74.31
+          }
+        },
+        {
+          "name": "Lahore Fort",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Walking",
+            "Museum"
+          ],
+          "description": "A UNESCO World Heritage citadel with palaces, gardens, and monuments spanning several Mughal dynasties.",
+          "funFact": "Contains the famous Sheesh Mahal (Palace of Mirrors).",
+          "coordinates": {
+            "lat": 31.5879,
+            "lng": 74.3156
+          }
+        },
+        {
+          "name": "Minar-e-Pakistan",
+          "category": "attraction",
+          "tags": [
+            "Monument",
+            "Historical"
+          ],
+          "description": "A towering minaret in Iqbal Park commemorating the Lahore Resolution of 1940.",
+          "funFact": "Stands where the All-India Muslim League passed the Pakistan Resolution.",
+          "coordinates": {
+            "lat": 31.5822,
+            "lng": 74.318
+          }
+        },
+        {
+          "name": "Walled City of Lahore",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Walking",
+            "Cultural"
+          ],
+          "description": "The ancient fortified core with narrow bazaars, havelis, and centuries-old architecture.",
+          "funFact": "Delhi Gate and other historic gates still mark old entrances.",
+          "coordinates": {
+            "lat": 31.5904,
+            "lng": 74.3055
+          }
+        },
+        {
+          "name": "Data Darbar",
+          "category": "attraction",
+          "tags": [
+            "Cultural",
+            "Religious"
+          ],
+          "description": "A major Sufi shrine complex and spiritual centre in the heart of Lahore.",
+          "funFact": "One of South Asia's most visited shrines.",
+          "coordinates": {
+            "lat": 31.54,
+            "lng": 74.32
+          }
+        },
+        {
+          "name": "Androon Lahore",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Cultural",
+            "Walking"
+          ],
+          "description": "The old inner city lanes famous for street food, spice markets, and traditional life.",
+          "funFact": "Best explored on foot early morning or evening.",
+          "coordinates": {
+            "lat": 31.5858,
+            "lng": 74.309
+          }
+        },
+        {
+          "name": "Lahore Museum",
+          "category": "attraction",
+          "tags": [
+            "Museum",
+            "Historical",
+            "Cultural"
+          ],
+          "description": "A major museum with Gandhara sculpture, Mughal miniatures, and colonial-era galleries.",
+          "funFact": "Houses the famous Fasting Buddha sculpture.",
+          "coordinates": {
+            "lat": 31.5851,
+            "lng": 74.3133
+          }
+        },
+        {
+          "name": "Racecourse Park",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Relaxing",
+            "Family"
+          ],
+          "description": "A large urban park with lawns, walking paths, and open green space.",
+          "funFact": "Popular with families for picnics and jogging.",
+          "coordinates": {
+            "lat": 31.5638,
+            "lng": 74.335
+          }
+        }
+      ]
+    },
+    {
+      "name": "Murree",
+      "province": "Punjab",
+      "type": "city",
+      "tags": [
+        "Mountains",
+        "Adventure",
+        "Nature"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/murree.jpg",
+      "description": "A popular hill station near Islamabad, beloved for pine forests, viewpoints, and cool summers.",
+      "places": [
+        {
+          "name": "Patriata (New Murree)",
+          "category": "attraction",
+          "tags": [
+            "Adventure",
+            "Cable Car",
+            "Mountains"
+          ],
+          "description": "Chairlift and cable car with sweeping views of the Pir Panjal range.",
+          "funFact": "Among the best-known cable car experiences near Islamabad.",
+          "coordinates": {
+            "lat": 33.87,
+            "lng": 73.39
+          }
+        },
+        {
+          "name": "Kashmir Point",
+          "category": "attraction",
+          "tags": [
+            "Viewpoint",
+            "Scenic"
+          ],
+          "description": "A panoramic viewpoint with views toward the Kashmir hills.",
+          "funFact": "Classic Murree sunset spot.",
+          "coordinates": {
+            "lat": 33.905,
+            "lng": 73.385
+          }
+        },
+        {
+          "name": "Pindi Point",
+          "category": "attraction",
+          "tags": [
+            "Viewpoint",
+            "Nature"
+          ],
+          "description": "Overlook with expansive views toward Rawalpindi and the foothills.",
+          "funFact": "Named for its sightline toward Pindi.",
+          "coordinates": {
+            "lat": 33.91,
+            "lng": 73.39
+          }
+        },
+        {
+          "name": "Christ Church",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Architecture"
+          ],
+          "description": "A historic church reflecting colonial-era Murree architecture.",
+          "funFact": "One of the town's heritage landmarks on the Mall.",
+          "coordinates": {
+            "lat": 33.912,
+            "lng": 73.392
+          }
+        }
+      ]
+    },
+    {
+      "name": "Swat Valley",
+      "province": "KPK",
+      "type": "valley",
+      "tags": [
+        "Nature",
+        "Adventure",
+        "Mountains",
+        "Scenic"
+      ],
+      "imageUrl": "https://i.postimg.cc/wMHPnfqS/swat.jpg",
+      "description": "Often called the Switzerland of Pakistan—rivers, forests, alpine meadows, and adventure gateways.",
+      "places": [
+        {
+          "name": "Kalam Valley",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Scenic"
+          ],
+          "description": "A high-altitude valley with forests, rivers, and gateway treks to alpine lakes.",
+          "funFact": "Base for trips toward Mahodand and beyond.",
+          "coordinates": {
+            "lat": 35.4883,
+            "lng": 72.5832
+          }
+        },
+        {
+          "name": "Malam Jabba",
+          "category": "attraction",
+          "tags": [
+            "Adventure",
+            "Skiing"
+          ],
+          "description": "Pakistan's best-known ski hill area with resort facilities and summer hiking.",
+          "funFact": "Popular year-round for mountain scenery.",
+          "coordinates": {
+            "lat": 34.8017,
+            "lng": 72.5619
+          }
+        },
+        {
+          "name": "Mahodand Lake",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Boating"
+          ],
+          "description": "A pristine alpine lake surrounded by peaks—iconic Swat scenery.",
+          "funFact": "Reached by jeep track from Kalam in season.",
+          "coordinates": {
+            "lat": 35.6275,
+            "lng": 72.5414
+          }
+        },
+        {
+          "name": "Saidu Swat Museum",
+          "category": "attraction",
+          "tags": [
+            "Museum",
+            "Historical",
+            "Cultural"
+          ],
+          "description": "Museum preserving Gandhara and regional heritage.",
+          "funFact": "Highlights Swat's ancient Buddhist history.",
+          "coordinates": {
+            "lat": 34.76,
+            "lng": 72.75
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kaghan Valley",
+      "province": "KPK",
+      "type": "valley",
+      "tags": [
+        "Nature",
+        "Adventure",
+        "Mountains",
+        "Hiking"
+      ],
+      "imageUrl": "https://i.postimg.cc/R06jtJpd/kaghan.jpg",
+      "description": "Famed for Lake Saif-ul-Malook, river scenery, and the Babusar route toward Gilgit-Baltistan.",
+      "places": [
+        {
+          "name": "Lake Saif-ul-Malook",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Lake",
+            "Hiking"
+          ],
+          "description": "A legendary alpine lake ringed by peaks, accessible by jeep or trek.",
+          "funFact": "Tied to folk tales of a prince and fairy.",
+          "coordinates": {
+            "lat": 34.8849,
+            "lng": 73.6942
+          }
+        },
+        {
+          "name": "Babusar Top",
+          "category": "attraction",
+          "tags": [
+            "Viewpoint",
+            "High Altitude"
+          ],
+          "description": "A high pass connecting Kaghan with Chilas—dramatic mountain vistas.",
+          "funFact": "Seasonal road; check conditions before travel.",
+          "coordinates": {
+            "lat": 35.1922,
+            "lng": 74.0386
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chitral",
+      "province": "KPK",
+      "type": "region",
+      "tags": [
+        "Cultural",
+        "Heritage",
+        "Adventure",
+        "Remote"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/chitral.jpg",
+      "description": "Remote northern KPK, home to the Kalash valleys and dramatic Hindu Kush scenery.",
+      "places": [
+        {
+          "name": "Kalash Valleys",
+          "category": "attraction",
+          "tags": [
+            "Cultural",
+            "Heritage",
+            "Remote",
+            "Festivals"
+          ],
+          "description": "Bumburet, Rumbur, and Birir—centres of Kalash culture and seasonal festivals.",
+          "funFact": "Best known for Chilam Joshi and other cultural events.",
+          "coordinates": {
+            "lat": 35.708,
+            "lng": 71.672
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hunza",
+      "province": "Gilgit-Baltistan",
+      "type": "valley",
+      "tags": [
+        "Mountains",
+        "Heritage",
+        "Scenic",
+        "Adventure"
+      ],
+      "imageUrl": "https://i.postimg.cc/ydhphmmm/hunza.jpg",
+      "description": "Legendary Karakoram valley views, forts, and high-altitude lakes.",
+      "places": [
+        {
+          "name": "Attabad Lake",
+          "category": "attraction",
+          "tags": [
+            "Water Sports",
+            "Scenic"
+          ],
+          "description": "Turquoise lake formed by a landslide dam—boating and photography hotspot.",
+          "funFact": "Created in 2010; now a signature Hunza sight.",
+          "coordinates": {
+            "lat": 36.32,
+            "lng": 74.86
+          }
+        },
+        {
+          "name": "Baltit Fort",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Heritage"
+          ],
+          "description": "Historic fort above Karimabad with valley panoramas.",
+          "funFact": "Restored as a museum and viewpoint.",
+          "coordinates": {
+            "lat": 36.3195,
+            "lng": 74.6599
+          }
+        },
+        {
+          "name": "Passu Cones",
+          "category": "attraction",
+          "tags": [
+            "Adventure",
+            "Photography"
+          ],
+          "description": "Jagged spires above Passu—among Pakistan's most photographed peaks.",
+          "funFact": "Classic stop on the Karakoram Highway.",
+          "coordinates": {
+            "lat": 36.4741,
+            "lng": 74.8721
+          }
+        },
+        {
+          "name": "Hopar Valley",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Scenic",
+            "Hiking"
+          ],
+          "description": "Side valley off Nagar with glaciers and quiet trekking.",
+          "funFact": "Often spelled Hopper on older maps.",
+          "coordinates": {
+            "lat": 36.45,
+            "lng": 74.9
+          }
+        },
+        {
+          "name": "Karakoram Highway",
+          "category": "attraction",
+          "tags": [
+            "Adventure",
+            "Road Trip",
+            "Scenic"
+          ],
+          "description": "The KKH through Hunza—one of the world's great mountain drives.",
+          "funFact": "Engineering marvel linking Pakistan to China at Khunjerab.",
+          "coordinates": {
+            "lat": 36.42,
+            "lng": 74.85
+          }
+        }
+      ]
+    },
+    {
+      "name": "Skardu",
+      "province": "Gilgit-Baltistan",
+      "type": "city",
+      "tags": [
+        "Adventure",
+        "Mountains",
+        "Nature",
+        "Scenic"
+      ],
+      "imageUrl": "https://i.postimg.cc/R06jtJpd/skardu.jpg",
+      "description": "Gateway to Deosai, Shigar, and the high Karakoram—lakes, forts, and dramatic peaks.",
+      "places": [
+        {
+          "name": "Deosai National Park",
+          "category": "attraction",
+          "tags": [
+            "Wildlife",
+            "Camping"
+          ],
+          "description": "Vast high plateau known for brown bears, wildflowers, and open skies.",
+          "funFact": "Name linked to 'Land of Giants' in local lore.",
+          "coordinates": {
+            "lat": 34.98,
+            "lng": 75.56
+          }
+        },
+        {
+          "name": "Shangrila Resort (Lower Kachura Lake)",
+          "category": "hotel",
+          "tags": [
+            "Luxury",
+            "Lake"
+          ],
+          "description": "Iconic resort on Lower Kachura Lake—boat rides and mountain reflections.",
+          "funFact": "Famous postcard view of Skardu.",
+          "coordinates": {
+            "lat": 35.2842,
+            "lng": 75.548
+          }
+        },
+        {
+          "name": "Satpara Lake",
+          "category": "attraction",
+          "tags": [
+            "Nature",
+            "Lake",
+            "Scenic"
+          ],
+          "description": "Large reservoir near Skardu with dam views and boating.",
+          "funFact": "Supplies water and power to the Skardu region.",
+          "coordinates": {
+            "lat": 34.8411,
+            "lng": 75.6569
+          }
+        },
+        {
+          "name": "Shigar Fort",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "Heritage"
+          ],
+          "description": "Restored fort-palace heritage hotel and museum in the Shigar valley.",
+          "funFact": "Showcases Balti architecture and royal history.",
+          "coordinates": {
+            "lat": 35.4225,
+            "lng": 75.7358
+          }
+        }
+      ]
+    },
+    {
+      "name": "Diamer",
+      "province": "Gilgit-Baltistan",
+      "type": "region",
+      "tags": [
+        "Adventure",
+        "Extreme Trekking",
+        "Mountains",
+        "Scenic"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/diamer.jpg",
+      "description": "Nanga Parbat foothills—Fairy Meadows is Pakistan's most famous meadow viewpoint.",
+      "places": [
+        {
+          "name": "Fairy Meadows",
+          "category": "attraction",
+          "tags": [
+            "Extreme Trekking",
+            "Basecamp",
+            "Scenic"
+          ],
+          "description": "Alpine meadow with Nanga Parbat rising behind—trekkers' dream vista.",
+          "funFact": "Jeep track plus hike; plan with local guides.",
+          "coordinates": {
+            "lat": 35.3764,
+            "lng": 74.582
+          }
+        }
+      ]
+    },
+    {
+      "name": "Neelum Valley",
+      "province": "AJK",
+      "type": "valley",
+      "tags": [
+        "Nature",
+        "Adventure",
+        "Scenic",
+        "Hiking"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/neelum.jpg",
+      "description": "River valley in Azad Kashmir—villages, treks, and high lakes.",
+      "places": [
+        {
+          "name": "Arang Kel",
+          "category": "attraction",
+          "tags": [
+            "Hiking",
+            "Scenic"
+          ],
+          "description": "Meadow village above Kel—chairlift or hike access in season.",
+          "funFact": "Known for log-cabin style guesthouses.",
+          "coordinates": {
+            "lat": 34.72,
+            "lng": 73.81
+          }
+        },
+        {
+          "name": "Ratti Gali Lake",
+          "category": "attraction",
+          "tags": [
+            "Adventure",
+            "Lake"
+          ],
+          "description": "High glacial lake trek from Dowarian side.",
+          "funFact": "Best in mid-summer when snow recedes.",
+          "coordinates": {
+            "lat": 34.81,
+            "lng": 73.76
+          }
+        },
+        {
+          "name": "Sharda",
+          "category": "attraction",
+          "tags": [
+            "Historical",
+            "River"
+          ],
+          "description": "Riverside town with ancient Sharda temple ruins and trekking access.",
+          "funFact": "Historic learning centre along the Neelum.",
+          "coordinates": {
+            "lat": 34.92,
+            "lng": 73.97
+          }
+        }
+      ]
+    },
+    {
+      "name": "Muzaffarabad",
+      "province": "AJK",
+      "type": "city",
+      "tags": [
+        "Nature",
+        "Viewpoint",
+        "Adventure"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/muzaffarabad.jpg",
+      "description": "Capital of AJK at the confluence of rivers—hill viewpoints nearby.",
+      "places": [
+        {
+          "name": "Pir Chinasi",
+          "category": "attraction",
+          "tags": [
+            "Viewpoint",
+            "High Altitude",
+            "Paragliding"
+          ],
+          "description": "Ridge viewpoint above Muzaffarabad with meadows and paragliding.",
+          "funFact": "Popular day trip from the city.",
+          "coordinates": {
+            "lat": 34.466,
+            "lng": 73.556
+          }
+        }
+      ]
+    },
+    {
+      "name": "Karachi",
+      "province": "Sindh",
+      "type": "city",
+      "tags": [
+        "Beach",
+        "Cities",
+        "Cultural",
+        "Historical"
+      ],
+      "imageUrl": "https://i.postimg.cc/TYtSHJZk/karachi.jpg",
+      "description": "Pakistan's largest coastal metropolis—museums, monuments, and seafront life.",
+      "places": [
+        {
+          "name": "Clifton Beach",
+          "category": "attraction",
+          "tags": [
+            "Beach",
+            "Family"
+          ],
+          "description": "Popular seafront promenade along the Arabian Sea.",
+          "funFact": "Evening camel rides and street food are classic experiences.",
+          "coordinates": {
+            "lat": 24.807,
+            "lng": 67.02
+          }
+        },
+        {
+          "name": "Mazar-e-Quaid",
+          "category": "attraction",
+          "tags": [
+            "Monument",
+            "Historical"
+          ],
+          "description": "White marble mausoleum of Muhammad Ali Jinnah.",
+          "funFact": "Landmark of modern Pakistan in the city centre.",
+          "coordinates": {
+            "lat": 24.8742,
+            "lng": 67.03
+          }
+        },
+        {
+          "name": "Port Grand",
+          "category": "attraction",
+          "tags": [
+            "Entertainment",
+            "Food",
+            "Family"
+          ],
+          "description": "Waterfront dining and entertainment complex.",
+          "funFact": "Evening views over the harbour.",
+          "coordinates": {
+            "lat": 24.81,
+            "lng": 67.02
+          }
+        },
+        {
+          "name": "National Museum of Pakistan",
+          "category": "attraction",
+          "tags": [
+            "Museum",
+            "Historical",
+            "Cultural"
+          ],
+          "description": "Major national collections from Indus to modern eras.",
+          "funFact": "Core stop for understanding Pakistan's layered history.",
+          "coordinates": {
+            "lat": 24.855,
+            "lng": 67.015
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "tourmate-1772b",
+          "configurations": {
+            "android": "1:689526528736:android:0a02ae313a30ecc7fb8e85",
+            "ios": "1:689526528736:ios:36a7bdab7880d9d0fb8e85",
+            "web": "1:689526528736:web:143164ff47cefc90fb8e85"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}
